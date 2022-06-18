@@ -3,7 +3,7 @@ Proyek ini adalah tugas untuk submisson Belajar Membuat Aplikasi Back-End untuk 
 
 
 ## Cara Menjalankan
-```json
+```
 ### install dependencies
 $ npm install
 
