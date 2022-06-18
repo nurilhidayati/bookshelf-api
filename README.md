@@ -3,10 +3,10 @@ Proyek ini adalah tugas untuk submisson Belajar Membuat Aplikasi Back-End untuk 
 
 
 ## Cara Menjalankan
-'''
-# install dependencies
+```
+### install dependencies
 $ npm install
 
-# jalankan web service di mode development menggunakan nodemon
+### jalankan web service di mode development menggunakan nodemon
 $ npm run start
-'''
+```
