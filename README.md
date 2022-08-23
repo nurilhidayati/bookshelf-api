@@ -8,5 +8,5 @@ Proyek ini adalah tugas untuk submisson Belajar Membuat Aplikasi Back-End untuk 
 $ npm install
 
 ### jalankan web service di mode development menggunakan nodemon
-$ npm run start
+$ npm start
 ```
